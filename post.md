@@ -66,4 +66,4 @@ That's a future I'm interested in. *idiom* is one stab at it.
 
 ---
 
-If you want to follow along or poke at the design: [github.com/yuanm/idiom](https://github.com) (link will work once the repo is set up). Particularly interested in feedback from people who play guitar, design input devices, or think about ergonomics. Reach out.
+If you want to follow along or poke at the design: [github.com/buhbuhbuhbowser/idiom](https://github.com/buhbuhbuhbowser/idiom). Particularly interested in feedback from people who play guitar, design input devices, or think about ergonomics. Reach out.
