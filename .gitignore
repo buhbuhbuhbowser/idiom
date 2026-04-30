@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (for future code phases)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Node (for future code phases)
+node_modules/
+
+# Build output
+dist/
+build/
+*.exe
+*.dll
+*.dylib
+
+# Audio renders / temp files
+*.wav
+*.mp3
+*.aif
+*.mid
+
+# Local config
+.env
+.env.local
