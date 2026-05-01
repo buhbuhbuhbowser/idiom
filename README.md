@@ -16,6 +16,7 @@ Design and planning. No code yet. The repo currently captures the architecture, 
 
 - [`DESIGN.md`](./DESIGN.md) — full design doc: principle, hardware, architecture, key mapping, phase plan
 - [`post.md`](./post.md) — companion essay, written for a general technical audience
+- [`inspirations/`](./inspirations) — reference works that inform the design pattern (start with `soccer-physics.md` for the "strategic depth from minimal input" principle)
 
 ## Background
 
